@@ -1,0 +1,17 @@
+{
+    "name": "johnson/api",
+    "authors": [
+        {
+            "name": "Johnson Epo",
+            "email": "johnsonepo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
